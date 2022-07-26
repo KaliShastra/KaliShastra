@@ -41,7 +41,7 @@ apt install docker.io
     
     ## Build_Docker_Image:
     
-- Make ==Dockerfile== a text file containig all the cmds : READ [[Docker]]
+- Make ==Dockerfile== a text file containig all the cmds:
 - Run cmd to make docker
     
     ```powershell
