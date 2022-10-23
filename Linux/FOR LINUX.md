@@ -163,3 +163,7 @@ tee -a $Target.txt
  update for the kali repos:
 
 - [https://www.metahackers.pro/speed-kali-linux-update/](https://www.metahackers.pro/speed-kali-linux-update/)
+
+
+## Contributors:
+- [Prince Prafull](https://twitter.com/princeprafull3)
